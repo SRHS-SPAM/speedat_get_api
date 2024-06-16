@@ -52,6 +52,6 @@ app.get('/api/mealData/:meal/:date', async (req, res) => {
     }
 });
 
-app.listen(3000, () => {
-    console.log('Server is running on port 3000');
+app.listen(9090, () => {
+    console.log('Server is running on port 9090');
 });

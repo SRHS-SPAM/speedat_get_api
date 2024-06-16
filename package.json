@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^2.7.0"
+  },
+  "scripts": {
+    "time": "node time_table.js",
+    "food": "node food_list.js"
+  }
+}
